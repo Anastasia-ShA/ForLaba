@@ -1,0 +1,8 @@
+﻿  FileName.c
+D:\For c++\Project21\Project21\task1.h(48,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\Project21\Project21\task1.h(48,22): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\Project21\Project21\task1.h(51,30): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\Project21\Project21\FileName.c(23,7): warning C4013: abs: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\Project21\Project21\task1.h(12): warning C4715: max: значение возвращается не при всех путях выполнения
+D:\For c++\Project21\Project21\task1.h(9): warning C4715: min: значение возвращается не при всех путях выполнения
+  Project21.vcxproj -> D:\For c++\Project21\x64\Debug\Project21.exe
