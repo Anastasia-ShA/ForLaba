@@ -1,5 +1,0 @@
-﻿  FileName.c
-D:\For c++\Project21\Project21\FileName.c(20,7): warning C4013: abs: нет определения; предполагается "extern" с возвратом типа "int"
-D:\For c++\Project21\Project21\task1.h(9): warning C4715: min: значение возвращается не при всех путях выполнения
-D:\For c++\Project21\Project21\task1.h(12): warning C4715: max: значение возвращается не при всех путях выполнения
-  Project21.vcxproj -> D:\For c++\Project21\x64\Debug\Project21.exe
