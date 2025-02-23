@@ -1,0 +1,8 @@
+﻿  FileName.c
+D:\For c++\Project22\Project22\task2.h(51,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\Project22\Project22\task2.h(51,22): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\Project22\Project22\task2.h(55,21): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\Project22\Project22\FileName.c(25,4): warning C4047: =: "int **" отличается по уровням косвенного обращения от "int *"
+D:\For c++\Project22\Project22\task2.h(10): warning C4715: min: значение возвращается не при всех путях выполнения
+D:\For c++\Project22\Project22\task2.h(14): warning C4715: max: значение возвращается не при всех путях выполнения
+  Project22.vcxproj -> D:\For c++\Project22\x64\Debug\Project22.exe
