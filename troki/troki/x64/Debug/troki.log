@@ -1,0 +1,7 @@
+﻿  FileName.c
+D:\For c++\troki\troki\FileName.c(36,31): warning C4047: ==: "char *" отличается по уровням косвенного обращения от "int"
+D:\For c++\troki\troki\FileName.c(61,30): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+D:\For c++\troki\troki\FileName.c(65,30): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+D:\For c++\troki\troki\FileName.c(147,10): warning C4101: decoded_str: неиспользованная локальная переменная
+D:\For c++\troki\troki\FileName.c(146,10): warning C4101: encoded_str: неиспользованная локальная переменная
+  troki.vcxproj -> D:\For c++\troki\x64\Debug\troki.exe
