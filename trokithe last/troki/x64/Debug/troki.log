@@ -1,0 +1,6 @@
+﻿  FileName.c
+D:\For c++\troki\troki\FileName.c(70,22): warning C4047: <: "int" отличается по уровням косвенного обращения от "int (__cdecl *)(char *)"
+D:\For c++\troki\troki\FileName.c(128,5): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+D:\For c++\troki\troki\FileName.c(131,10): warning C4101: decoded_str: неиспользованная локальная переменная
+D:\For c++\troki\troki\FileName.c(130,10): warning C4101: encoded_str: неиспользованная локальная переменная
+  troki.vcxproj -> D:\For c++\troki\x64\Debug\troki.exe
