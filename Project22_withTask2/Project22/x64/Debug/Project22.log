@@ -1,8 +1,0 @@
-﻿  FileName.c
-C:\Users\777\Desktop\forTheLastL\Project22_withTask2\Project22\task2.h(79,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\777\Desktop\forTheLastL\Project22_withTask2\Project22\task2.h(79,22): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\777\Desktop\forTheLastL\Project22_withTask2\Project22\task2.h(85,21): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\777\Desktop\forTheLastL\Project22_withTask2\Project22\FileName.c(72,8): warning C4022: free: несоответствие указателя для фактического параметра 1
-C:\Users\777\Desktop\forTheLastL\Project22_withTask2\Project22\task2.h(16): warning C4715: min: значение возвращается не при всех путях выполнения
-C:\Users\777\Desktop\forTheLastL\Project22_withTask2\Project22\task2.h(20): warning C4715: max: значение возвращается не при всех путях выполнения
-  Project22.vcxproj -> C:\Users\777\Desktop\forTheLastL\Project22_withTask2\x64\Debug\Project22.exe
